@@ -1,0 +1,3 @@
+milestone 1
+
+I started off confused, later I learned how to use unity, added in the finishing touches of the concept and turned it into a zip file, unfortunately I couldn't uploaded onto GitHub because it was to big, but I did uploaded it to d2l
