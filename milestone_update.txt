@@ -1,3 +1,10 @@
 milestone 1
 
 I started off confused, later I learned how to use unity, added in the finishing touches of the concept and turned it into a zip file, unfortunately I couldn't uploaded onto GitHub because it was to big, but I did uploaded it to d2l
+
+milestone 3
+
+i made the enemy shoot, later on making the moving pattern
+i added the shooting mechanic to the player
+made the scrolling in a different scene
+the power went out, i'll upload it on saturday or sunday, i think i will not make a yt vid but show the footage instead
